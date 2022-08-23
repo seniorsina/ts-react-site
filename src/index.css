@@ -20,13 +20,12 @@
 }
 
 .search-box {
-  display: flex;
+  float: left;
+  margin: 10px;
+  align-content: left;
   color: white;
   box-sizing: border-box;
   vertical-align: middle;
-  display: inline;
-  position: relative;
-  left: 10%;
 }
 
 .App {
